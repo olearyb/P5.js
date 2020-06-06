@@ -10,8 +10,20 @@ The Relativity of color sketch works on the premise that one single color can ap
 
 The light brown squares can be clicked and dragged to show that they are the same colour, highlighting that "1 color can be made to appear as 2 different colors".
 
-# SCREENSHOT
+### Screenshot
 
-<img width="600" alt="Screenshot 2019-11-05 at 16 54 39" src="https://user-images.githubusercontent.com/8673218/83952451-db568b00-a830-11ea-9b26-c05a5b26ff8c.png">
+<img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/8673218/83952451-db568b00-a830-11ea-9b26-c05a5b26ff8c.png">
 
-![image](https://user-images.githubusercontent.com/8673218/83952451-db568b00-a830-11ea-9b26-c05a5b26ff8c.png)
+### Working Example
+
+
+
+## color_mixer.js - RGB Sketch
+
+This sketch utlises the blend functions in P5.js to visualise how the primary RGB colours mix and interact with each other in an additive way.
+
+# Screenshot
+
+<img width="600" src="https://user-images.githubusercontent.com/8673218/83952492-1a84dc00-a831-11ea-9dca-b5c4c4aa9f24.png">
+
+### Working Example
