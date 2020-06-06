@@ -1,4 +1,4 @@
-# P5.js
+# P5.js EXPERIMENTS
 Collection of creative P5.js interactive functions 
 
 
@@ -19,7 +19,9 @@ Follow this link and try clicking and dragging one of the brown squares [Color R
 
 
 
-## color_mixer.js - RGB Sketch
+
+
+## Color_mixer.js - RGB Sketch
 
 This sketch utlises the blend functions in P5.js to visualise how the primary RGB colours mix and interact with each other in an additive way.
 
