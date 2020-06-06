@@ -14,8 +14,8 @@ The light brown squares can be clicked and dragged to show that they are the sam
 
 <img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/8673218/83952451-db568b00-a830-11ea-9b26-c05a5b26ff8c.png">
 
-### Working Example
-Follow this link and try clicking and dragging one of the brown squares [COlor Relativity Sketch](http://www.barraoleary.com/Albers_Sketch.html)
+## Working Example
+Follow this link and try clicking and dragging one of the brown squares [Color Relativity Sketch](http://www.barraoleary.com/Albers_Sketch.html)
 
 
 
@@ -27,4 +27,5 @@ This sketch utlises the blend functions in P5.js to visualise how the primary RG
 
 <img width="600" src="https://user-images.githubusercontent.com/8673218/83952492-1a84dc00-a831-11ea-9dca-b5c4c4aa9f24.png">
 
-### Working Example
+## Working Example
+Follow this link and simply move your mouse around to move the 3 RGB squares simultaneously [RGB Sketch](http://www.barraoleary.com/RGB.html)
